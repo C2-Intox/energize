@@ -4,7 +4,7 @@
 
 ## Entwicklerteam
 **Nico Steigerwald** Lead Programmer  
-**Jan Reuter** Programmer
+**Jan Reuter** Programmer   
 **Kenn Marvin Baunach** Lead Artist   
 **Niklas Väthbrückner** Programmer & Artist   
 **Luca Wolf** Designer  
@@ -20,13 +20,13 @@
 
 ## Screenshots
 ![Startmenü](https://i.imgur.com/y21H47R.png)
-Startmenü
+**Startmenü**
 
 ![Credits](https://i.imgur.com/UbJTbil.png)
-Credit Screen
+**Credit Screen**
 
 ![Credits](https://i.imgur.com/BrkoOqj.png)
-Ingame
+**Ingame**
 
 
 ![Firmenlogo](https://i.imgur.com/U1tJNhR.png)
