@@ -11,7 +11,7 @@
 **Jonathan Kraus** Designer
 
 
-## Ziele Ka schreib mal die pflichten hier hin
+## To-Do List
 - [x] Geile Grafik
 - [x] Geile Buttons
 - [x] Luca motiviert
